@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+videos_teste/
+dados/
+logs/
+*.mov
+*.MOV
+*.mp4
+*.db
+README.md
+resumo-projeto.txt
